@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\proekt\proekt\bin\Debug\net6.0\proekt.exe
+C:\Users\MSI\source\repos\proekt\proekt\bin\Debug\net6.0\proekt.deps.json
+C:\Users\MSI\source\repos\proekt\proekt\bin\Debug\net6.0\proekt.runtimeconfig.json
+C:\Users\MSI\source\repos\proekt\proekt\bin\Debug\net6.0\proekt.dll
+C:\Users\MSI\source\repos\proekt\proekt\bin\Debug\net6.0\proekt.pdb
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.AssemblyInfo.cs
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.dll
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\refint\proekt.dll
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.pdb
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\proekt.genruntimeconfig.cache
+C:\Users\MSI\source\repos\proekt\proekt\obj\Debug\net6.0\ref\proekt.dll
